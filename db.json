@@ -1,0 +1,172 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "month": "Dec 2023",
+      "date": "31 December 2023",
+      "type": "Expense",
+      "categories": "Housing",
+      "amount": "600"
+    },
+    {
+      "id": "2",
+      "month": "Dec 2023",
+      "date": "28 December 2023",
+      "type": "Income",
+      "categories": "Wage, invoices",
+      "amount": "1500"
+    },
+    {
+      "id": "3",
+      "month": "Dec 2023",
+      "date": "10 December 2023",
+      "type": "Income",
+      "categories": "Interests, dividends",
+      "amount": "100"
+    },
+    {
+      "id": "4",
+      "month": "Dec 2023",
+      "date": "1 December 2023",
+      "type": "Expense",
+      "categories": "Transportation",
+      "amount": "50"
+    },
+    {
+      "id": "5",
+      "month": "Nov 2023",
+      "date": "30 November 2023",
+      "type": "Expense",
+      "categories": "Housing",
+      "amount": "600"
+    },
+    {
+      "id": "6",
+      "month": "Nov 2023",
+      "date": "28 November 2023",
+      "type": "Income",
+      "categories": "Wage, invoices",
+      "amount": "1500"
+    },
+    {
+      "id": "7",
+      "month": "Nov 2023",
+      "date": "1 November 2023",
+      "type": "Expense",
+      "categories": "Transportation",
+      "amount": "50"
+    },
+    {
+      "id": "8",
+      "month": "Oct 2023",
+      "date": "31 October 2023",
+      "type": "Expense",
+      "categories": "Housing",
+      "amount": "600"
+    },
+    {
+      "id": "9",
+      "month": "Oct 2023",
+      "date": "28 October 2023",
+      "type": "Income",
+      "categories": "Wage, invoices",
+      "amount": "1500"
+    },
+    {
+      "id": "10",
+      "month": "Oct 2023",
+      "date": "1 October 2023",
+      "type": "Expense",
+      "categories": "Transportation",
+      "amount": "50"
+    },
+    {
+      "id": "11",
+      "month": "Oct 2023",
+      "date": "1 October 2023",
+      "type": "Income",
+      "categories": "Rental income",
+      "amount": "900"
+    },
+    {
+      "id": "12",
+      "month": "Sep 2023",
+      "date": "30 September 2023",
+      "type": "Expense",
+      "categories": "Housing",
+      "amount": "600"
+    },
+    {
+      "id": "13",
+      "month": "Sep 2023",
+      "date": "28 September 2023",
+      "type": "Income",
+      "categories": "Wage, invoices",
+      "amount": "1200"
+    },
+    {
+      "id": "14",
+      "month": "Sep 2023",
+      "date": "1 September 2023",
+      "type": "Expense",
+      "categories": "Transportation",
+      "amount": "50"
+    },
+    {
+      "id": "15",
+      "month": "Aug 2023",
+      "date": "31 August 2023",
+      "type": "Expense",
+      "categories": "Housing",
+      "amount": "600"
+    },
+    {
+      "id": "16",
+      "month": "Aug 2023",
+      "date": "28 August 2023",
+      "type": "Income",
+      "categories": "Wage, invoices",
+      "amount": "1200"
+    },
+    {
+      "id": "17",
+      "month": "Aug 2023",
+      "date": "1 August 2023",
+      "type": "Expense",
+      "categories": "Transportation",
+      "amount": "50"
+    },
+    {
+      "id": "18",
+      "month": "Jul 2023",
+      "date": "31 July 2023",
+      "type": "Expense",
+      "categories": "Housing",
+      "amount": "600"
+    },
+    {
+      "id": "19",
+      "month": "Jul 2023",
+      "date": "28 July 2023",
+      "type": "Income",
+      "categories": "Wage, invoices",
+      "amount": "1200"
+    },
+    {
+      "id": "20",
+      "month": "Jul 2023",
+      "date": "1 July 2023",
+      "type": "Expense",
+      "categories": "Transportation",
+      "amount": "50"
+    },
+    {
+      "id": "21",
+      "month": "Jul 2023",
+      "date": "1 July 2023",
+      "type": "Income",
+      "categories": "Rental income",
+      "amount": "900"
+    }
+  ]
+}
